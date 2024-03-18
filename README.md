@@ -4,7 +4,7 @@
 
 This project represents a comprehensive effort in web-scraping and data analysis, building upon foundational skills in HTML element identification, automated browsing with Splinter, and HTML parsing with BeautifulSoup. 
 
-Libraries used: BeautifulSoup, Pandas, Splinter, Matplotlib
+Libraries used: BeautifulSoup, Pandas, Splinter, Matplotlib, Os
 
 ## Part 1: Mars News Articles
 
